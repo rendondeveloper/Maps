@@ -1,0 +1,178 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml:2:1-41:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\2cc3157a074d7722d84b12e7d8c87880\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\731155a7eea9cd2061dbae97374bd85c\AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9747fccde03bbb3136af056385d7ff99\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\fb9a78ecfd97ce6f786ca300dee07d30\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4a94c7137d87fcc0f39654737a629a72\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\674b3b208ada4c15c91c58dd6663bdae\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\cf3f277526d9504e6d5925ac3e774145\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0bf94664f8efaff403bc59554fdc9262\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\614f1fba8daffae24701d293e8bff67f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d742994595d169c6ddca160523a4f6fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\817ed2f8d7684f9b5b95f23d850e9455\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9d929ffe87529e2e249a5df2a197f3e6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b355a86c49ec41475c70d5b89462b744\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1a5a31457b013aa0be751679fde9e3f9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\70dc5b55e63b05671997e0ab6e30b616\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b495c5e609556273a6c4bcbb8c648172\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\357f8c1e4878f3bf7ec8872b307b9ca1\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml:9:22-76
+application
+ADDED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml:11:5-39:19
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\731155a7eea9cd2061dbae97374bd85c\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\731155a7eea9cd2061dbae97374bd85c\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4a94c7137d87fcc0f39654737a629a72\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4a94c7137d87fcc0f39654737a629a72\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\674b3b208ada4c15c91c58dd6663bdae\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\674b3b208ada4c15c91c58dd6663bdae\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\cf3f277526d9504e6d5925ac3e774145\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\cf3f277526d9504e6d5925ac3e774145\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0bf94664f8efaff403bc59554fdc9262\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0bf94664f8efaff403bc59554fdc9262\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\614f1fba8daffae24701d293e8bff67f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\614f1fba8daffae24701d293e8bff67f\AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml:17:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml:26:9-28:55
+	android:value
+		ADDED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml:28:13-52
+	android:name
+		ADDED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml:27:13-58
+activity#com.example.rendondev.maps.MapsActivity
+ADDED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml:30:9-38:20
+	android:label
+		ADDED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml:32:13-56
+	android:name
+		ADDED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml:31:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml:36:27-74
+uses-sdk
+INJECTED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\2cc3157a074d7722d84b12e7d8c87880\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\2cc3157a074d7722d84b12e7d8c87880\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\731155a7eea9cd2061dbae97374bd85c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\731155a7eea9cd2061dbae97374bd85c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9747fccde03bbb3136af056385d7ff99\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9747fccde03bbb3136af056385d7ff99\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\fb9a78ecfd97ce6f786ca300dee07d30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\fb9a78ecfd97ce6f786ca300dee07d30\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4a94c7137d87fcc0f39654737a629a72\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4a94c7137d87fcc0f39654737a629a72\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\674b3b208ada4c15c91c58dd6663bdae\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\674b3b208ada4c15c91c58dd6663bdae\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\cf3f277526d9504e6d5925ac3e774145\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\cf3f277526d9504e6d5925ac3e774145\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0bf94664f8efaff403bc59554fdc9262\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0bf94664f8efaff403bc59554fdc9262\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\614f1fba8daffae24701d293e8bff67f\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\614f1fba8daffae24701d293e8bff67f\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d742994595d169c6ddca160523a4f6fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d742994595d169c6ddca160523a4f6fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\817ed2f8d7684f9b5b95f23d850e9455\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\817ed2f8d7684f9b5b95f23d850e9455\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9d929ffe87529e2e249a5df2a197f3e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9d929ffe87529e2e249a5df2a197f3e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b355a86c49ec41475c70d5b89462b744\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b355a86c49ec41475c70d5b89462b744\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1a5a31457b013aa0be751679fde9e3f9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1a5a31457b013aa0be751679fde9e3f9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\70dc5b55e63b05671997e0ab6e30b616\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\70dc5b55e63b05671997e0ab6e30b616\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b495c5e609556273a6c4bcbb8c648172\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b495c5e609556273a6c4bcbb8c648172\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\357f8c1e4878f3bf7ec8872b307b9ca1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\357f8c1e4878f3bf7ec8872b307b9ca1\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0bf94664f8efaff403bc59554fdc9262\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\o-lrendon\StudioProjects\Maps\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\731155a7eea9cd2061dbae97374bd85c\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\731155a7eea9cd2061dbae97374bd85c\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\731155a7eea9cd2061dbae97374bd85c\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\731155a7eea9cd2061dbae97374bd85c\AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\731155a7eea9cd2061dbae97374bd85c\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\731155a7eea9cd2061dbae97374bd85c\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\731155a7eea9cd2061dbae97374bd85c\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4a94c7137d87fcc0f39654737a629a72\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4a94c7137d87fcc0f39654737a629a72\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4a94c7137d87fcc0f39654737a629a72\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4a94c7137d87fcc0f39654737a629a72\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\cf3f277526d9504e6d5925ac3e774145\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\cf3f277526d9504e6d5925ac3e774145\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\cf3f277526d9504e6d5925ac3e774145\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0bf94664f8efaff403bc59554fdc9262\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\614f1fba8daffae24701d293e8bff67f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\614f1fba8daffae24701d293e8bff67f\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0bf94664f8efaff403bc59554fdc9262\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0bf94664f8efaff403bc59554fdc9262\AndroidManifest.xml:27:13-51

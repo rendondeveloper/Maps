@@ -1,0 +1,4 @@
+#Tue Nov 06 08:31:13 CST 2018
+base.0=C\:\\Users\\o-lrendon\\StudioProjects\\Maps\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
